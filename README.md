@@ -2,8 +2,8 @@ Created a full-stack Amazon Clone web app replicating Amazon.com's functionality
 
 ## Landing Page
 
-<img  src="https://github.com/Griffinn/React-Amazon-clone/blob/main/home.png"> <br>
-![](https://github.com/Griffinn/React-Amazon-clone/blob/main/home.png?raw=true)
+![home](https://github.com/Griffinn/React-Amazon-clone/assets/119476393/2d7ceb87-e0d0-4394-adbf-c87f2a9605a9)
+
 
 
 ## Checkout Page
