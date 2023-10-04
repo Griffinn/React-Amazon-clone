@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Landing page
+![](https://github.com/rbSparky/umit-frontend/blob/main/land1.png)
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/land2.png)
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/land3.png)
+
+
+## Authorization page
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/auth1.png)
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/auth2.png)
+
+## College Filter page
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
+
 
 ## Available Scripts
 
