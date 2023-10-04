@@ -1,4 +1,6 @@
-## Landing page
+Created a full-stack Amazon Clone web app replicating Amazon.com's functionality. Features include user-friendly design, user authentication, shopping cart, secure payment gateway, and essential e-commerce pages (login, checkout, payment, order history). Gain hands-on experience in full-stack web development, resulting in a seamless and dynamic product catalog.
+
+## Landing Page
 ![](https://github.com/rbSparky/umit-frontend/blob/main/land1.png)
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/land2.png)
@@ -6,13 +8,21 @@
 ![](https://github.com/rbSparky/umit-frontend/blob/main/land3.png)
 
 
-## Authorization page
+## Checkout Page
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/auth1.png)
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/auth2.png)
 
-## College Filter page
+## Login page
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
+
+## Payment page
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
+
+## Orders page
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
 
