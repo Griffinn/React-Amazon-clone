@@ -1,26 +1,21 @@
-Created a full-stack Amazon Clone web app replicating Amazon.com's functionality. Features include user-friendly design, user authentication, shopping cart, secure payment gateway, and essential e-commerce pages (login, checkout, payment, order history). Gain hands-on experience in full-stack web development, resulting in a seamless and dynamic product catalog.
+Created a full-stack Amazon Clone web app replicating Amazon.com's functionality. Features include a user-friendly design, user authentication, a shopping cart, a secure payment gateway, and essential e-commerce pages (login, checkout, payment, and order history). Gain hands-on experience in full-stack web development, resulting in a seamless and dynamic product catalog.
 
 ## Landing Page
-![](https://github.com/rbSparky/umit-frontend/blob/main/land1.png)
-
-![](https://github.com/rbSparky/umit-frontend/blob/main/land2.png)
-
-![](https://github.com/rbSparky/umit-frontend/blob/main/land3.png)
+![](https://github.com/Griffinn/React-Amazon-clone/blob/main/home.png)
 
 
 ## Checkout Page
 
-![](https://github.com/rbSparky/umit-frontend/blob/main/auth1.png)
+![](https://github.com/Griffinn/React-Amazon-clone/blob/main/checkout.png)
 
-![](https://github.com/rbSparky/umit-frontend/blob/main/auth2.png)
 
 ## Login page
 
-![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
+![](https://github.com/Griffinn/React-Amazon-clone/blob/main/login.png)
 
 ## Payment page
 
-![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
+![](https://github.com/Griffinn/React-Amazon-clone/blob/main/payment.png)
 
 
 ## Available Scripts
