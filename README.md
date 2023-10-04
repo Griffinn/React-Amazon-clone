@@ -4,19 +4,19 @@ Created a full-stack Amazon Clone web app replicating Amazon.com's functionality
 
 ![home](https://github.com/Griffinn/React-Amazon-clone/assets/119476393/2d7ceb87-e0d0-4394-adbf-c87f2a9605a9)
 
-
-
 ## Checkout Page
 
-<img  src="https://github.com/Griffinn/React-Amazon-clone/blob/main/checkout.png"> <br>
+![checkout](https://github.com/Griffinn/React-Amazon-clone/assets/119476393/449a789b-bb6a-4d5e-bb95-52dcbc362b7a)
+
 
 ## Login page
 
-<img src="https://github.com/Griffinn/React-Amazon-clone/blob/main/login.png"> <br>
+![login](https://github.com/Griffinn/React-Amazon-clone/assets/119476393/70daee8b-0390-460c-abc3-3b77372f7d02)
+
 
 ## Payment page
 
-<img src="https://github.com/Griffinn/React-Amazon-clone/blob/main/payment.png"> <br>
+![payment](https://github.com/Griffinn/React-Amazon-clone/assets/119476393/1fa37217-dc4b-4ddb-99a4-333df57aadc8)
 
 
 ## Available Scripts
