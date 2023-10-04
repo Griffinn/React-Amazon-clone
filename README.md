@@ -1,21 +1,21 @@
 Created a full-stack Amazon Clone web app replicating Amazon.com's functionality. Features include a user-friendly design, user authentication, a shopping cart, a secure payment gateway, and essential e-commerce pages (login, checkout, payment, and order history). Gain hands-on experience in full-stack web development, resulting in a seamless and dynamic product catalog.
 
 ## Landing Page
-[](https://github.com/Griffinn/React-Amazon-clone/blob/main/home.png)
+
+<img  src="https://github.com/Griffinn/React-Amazon-clone/blob/main/home.png"> <br>
 
 
 ## Checkout Page
 
-![](https://github.com/Griffinn/React-Amazon-clone/blob/main/checkout.png)
-
+<img  src="https://github.com/Griffinn/React-Amazon-clone/blob/main/checkout.png"> <br>
 
 ## Login page
 
-![](https://github.com/Griffinn/React-Amazon-clone/blob/main/login.png)
+<img src="https://github.com/Griffinn/React-Amazon-clone/blob/main/login.png"> <br>
 
 ## Payment page
 
-![](https://github.com/Griffinn/React-Amazon-clone/blob/main/payment.png)
+<img src="https://github.com/Griffinn/React-Amazon-clone/blob/main/payment.png"> <br>
 
 
 ## Available Scripts
