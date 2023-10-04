@@ -22,10 +22,6 @@ Created a full-stack Amazon Clone web app replicating Amazon.com's functionality
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
 
-## Orders page
-
-![](https://github.com/rbSparky/umit-frontend/blob/main/filter1.png)
-
 
 ## Available Scripts
 
